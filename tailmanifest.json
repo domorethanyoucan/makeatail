@@ -1,6 +1,6 @@
 {
   "name": "TAIL",
-  "version": "0.13.3/2208222",
+  "version": "08012023",
   "builds": [
     {
       "chipFamily": "ESP8266",
