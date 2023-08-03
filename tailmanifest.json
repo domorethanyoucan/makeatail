@@ -1,7 +1,6 @@
 {
   "name": "TAIL",
   "version": "0.13.3/2208222",
-  "home_assistant_domain": "wled",
   "builds": [
     {
       "chipFamily": "ESP8266",
