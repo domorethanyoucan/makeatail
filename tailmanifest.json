@@ -1,10 +1,10 @@
 {
   "name": "Tail",
-  "version": "Nine Oh",
+  "version": "Autosave",
   "builds": [
     {
       "chipFamily": "ESP8266",
-      "parts": [{ "path": "tailnineoh.bin", "offset": 0 }]
+      "parts": [{ "path": "tailauto.bin", "offset": 0 }]
     }
   ]
 }
