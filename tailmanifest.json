@@ -1,10 +1,10 @@
 {
   "name": "Tail",
-  "version": "Autosave",
+  "version": "Autosave 2",
   "builds": [
     {
       "chipFamily": "ESP8266",
-      "parts": [{ "path": "tailauto.bin", "offset": 0 }]
+      "parts": [{ "path": "tailauto2.bin", "offset": 0 }]
     }
   ]
 }
